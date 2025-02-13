@@ -10,6 +10,6 @@
 As a **Program Coordinator**, Dr. Mahmoodi is dedicated to advancing engineering education, mentoring students, and fostering industry collaborations to drive innovation in semiconductor and nanoelectronics research.
 
 ## 📌 Connect:
-- 🔗 [Personal Webpage](http://online.sfsu.edu/~mahmoodi/)
+- 🔗 [Personal Webpage]([http://online.sfsu.edu/~mahmoodi](https://engineering.sfsu.edu/faculty-profile-hamid-mahmoodi)
 - 📧 mahmoodi@sfsu.edu
 - 📍 SEIC 336, SFSU
