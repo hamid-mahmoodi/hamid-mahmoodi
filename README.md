@@ -1,16 +1,15 @@
-## Hi there 👋
+Hamid Mahmoodi, Ph.D.
+Professor & Program Coordinator, Electrical and Computer Engineering
+San Francisco State University
 
-<!--
-**hamid-mahmoodi/hamid-mahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Research Focus: VLSI, Low-Power and High-Performance Circuit Design, Nanoelectronics
+📚 Publications: 100+ journal and conference papers | 5 U.S. patents
+🏆 Awards: IEEE Best Paper Award, SRC Technical Excellence Award, NSF Research Grants
+💻 Technical Committees: CICC, ISLPED, ISQED
 
-Here are some ideas to get you started:
+As a Program Coordinator, Dr. Mahmoodi is dedicated to advancing engineering education, mentoring students, and fostering industry collaborations to drive innovation in semiconductor and nanoelectronics research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Connect:
+🔗 Personal Webpage
+📧 mahmoodi@sfsu.edu
+📍 SEIC 336, SFSU
